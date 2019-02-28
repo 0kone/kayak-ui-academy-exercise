@@ -1,2 +1,6 @@
-.container {
+.autocomplete input :placeholder {
+  color: white;
+}
+.autocomplete {
+  border: none;
 }
